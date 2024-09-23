@@ -1,4 +1,4 @@
-package EstruturaSequencial.ExerciciosURI;
+package ExerciciosBeecrowd;
 
 import java.util.Locale;
 import java.util.Scanner;

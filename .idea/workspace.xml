@@ -5,28 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="863d9185-b72b-4ef3-afaa-94aad36f3dae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EstruturaCondicional/EstruturaCondicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logica de programacao java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaCondicional/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1014.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Lucas-ulerich"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lucas-ulerich&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Lucas-ulerich/Logica_de_programacao_java.git",
-    "accountId": "728a1d86-d7e5-479d-ace0-01dce723edc1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lucas-ulerich/Logica_de_programacao_java.git&quot;,
+    &quot;accountId&quot;: &quot;728a1d86-d7e5-479d-ace0-01dce723edc1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -40,15 +61,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.EntradaDeDados.executor": "Run",
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/home/ulerich/Estudos/Java/Logica_de_programacao_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
@@ -73,6 +102,9 @@
       <workItem from="1726012552924" duration="44000" />
       <workItem from="1726012841401" duration="32000" />
       <workItem from="1726799911398" duration="159000" />
+      <workItem from="1726794315666" duration="366000" />
+      <workItem from="1726833290080" duration="5999000" />
+      <workItem from="1727082486905" duration="510000" />
     </task>
     <servers />
   </component>

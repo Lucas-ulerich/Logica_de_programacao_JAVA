@@ -1,4 +1,4 @@
-package EstruturaSequencial.ExerciciosURI;
+package ExerciciosBeecrowd;
 import java.util.Scanner;
 
 public class uri1007 {
