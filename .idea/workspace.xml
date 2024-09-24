@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="863d9185-b72b-4ef3-afaa-94aad36f3dae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EstruturaCondicional/EstruturaCondicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logica de programacao java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaCondicional/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaSequencial/ExerciciosURI/uri1014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciciosURI/uri1014.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +49,7 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.EntradaDeDados.executor": "Run",
+    "Application.EstruturaRepetitivaEnquanto.executor": "Run",
     "Application.Exercicio1.executor": "Run",
     "Application.Exercicio4.executor": "Run",
     "Application.Main.executor": "Run",
@@ -104,7 +91,8 @@
       <workItem from="1726799911398" duration="159000" />
       <workItem from="1726794315666" duration="366000" />
       <workItem from="1726833290080" duration="5999000" />
-      <workItem from="1727082486905" duration="510000" />
+      <workItem from="1727082486905" duration="3662000" />
+      <workItem from="1727171088296" duration="1890000" />
     </task>
     <servers />
   </component>
