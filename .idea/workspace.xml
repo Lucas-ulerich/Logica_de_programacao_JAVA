@@ -50,9 +50,18 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.EntradaDeDados.executor": "Run",
     "Application.EstruturaRepetitivaEnquanto.executor": "Run",
+    "Application.EstruturaRepetitivaPara.executor": "Debug",
     "Application.Exercicio1.executor": "Run",
     "Application.Exercicio4.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ex01.executor": "Run",
+    "Application.teste.executor": "Run",
+    "Application.uri1035.executor": "Run",
+    "Application.uri1038.executor": "Run",
+    "Application.uri1044.executor": "Run",
+    "Application.uri1046.executor": "Run",
+    "Application.uri1113.executor": "Run",
+    "Application.uri1114.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -72,8 +81,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -93,6 +102,15 @@
       <workItem from="1726833290080" duration="5999000" />
       <workItem from="1727082486905" duration="3662000" />
       <workItem from="1727171088296" duration="1890000" />
+      <workItem from="1727302393893" duration="226000" />
+      <workItem from="1727428281082" duration="996000" />
+      <workItem from="1727437679186" duration="3227000" />
+      <workItem from="1727441137755" duration="3273000" />
+      <workItem from="1727535876109" duration="1322000" />
+      <workItem from="1727567710164" duration="1752000" />
+      <workItem from="1727634036015" duration="2288000" />
+      <workItem from="1727864665790" duration="5008000" />
+      <workItem from="1728381814645" duration="1054000" />
     </task>
     <servers />
   </component>

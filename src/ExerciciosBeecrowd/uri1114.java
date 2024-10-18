@@ -1,0 +1,21 @@
+package ExerciciosBeecrowd;
+
+import java.util.Scanner;
+
+public class uri1114 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int senha = sc.nextInt();
+
+        while (senha != 2022) {
+            if (senha == 2022) {
+                System.out.println("Acesso Permitido");
+            }
+            else {
+                System.out.println("Senha Invalida");
+            }
+            senha = sc.nextInt();
+        }
+    }
+}
